@@ -2,7 +2,4 @@ Instructions for adding this to the server
 ==================================================
 This is the file for branch-2
 
-Install Instructions for IIS
-********************************
-
 some content goes here
