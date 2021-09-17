@@ -4,7 +4,7 @@
 In this course, I will learn how to use GitHub successfully fgor my Skill IQ test.
 
 ### The basics
--Undersatnd the use of GitHub
+-Understand the use of GitHub
 -Create repositories
 -Work with Git and GitHub locally
 -Create and work with issues
