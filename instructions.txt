@@ -1,1 +1,2 @@
-LoremIpsum
+Instructions for adding this to the server
+==================================================
