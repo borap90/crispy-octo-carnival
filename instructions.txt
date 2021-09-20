@@ -1,5 +1,9 @@
 Instructions for adding this to the server
 ==================================================
+<<<<<<< HEAD
 This is the file for branch-2
 
 some content goes here
+=======
+These changes have been made for Branch-1.
+>>>>>>> 94f1a8e54cc31024bddd28188715b2dc28829668
