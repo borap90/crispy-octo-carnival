@@ -8,5 +8,5 @@ jobs:
         uses: actions/checkout@v2
       - name: List files in repo
         run:
-          ls ${github.worspace}}
+          ls ${{github.worspace}}
       - run: echo "Status is ${{job.status}}."
